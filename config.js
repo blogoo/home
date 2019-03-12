@@ -1,5 +1,5 @@
 const config = {
-    projectName: 'photo',
+    projectName: 'home',
     title: '方运江个人官网',
     favicon: 'img/favicon.ico',
     logo: 'img/logo.png',
