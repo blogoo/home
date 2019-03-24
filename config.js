@@ -23,6 +23,10 @@ const config = {
     },
     menus: [
         {
+            name: '个人资料',
+            mainPage: '/personal',
+        },
+        {
             name: '照片',
             mainPage: '/photo',
         },
